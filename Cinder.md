@@ -67,6 +67,3 @@
 <li> -	Bootable </li>
 <li> -	Non-bootable </li>
 </ul>
-
-
-
