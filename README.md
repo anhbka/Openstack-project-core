@@ -1,1 +1,2 @@
 # Openstack-project-core
+OPENSTACK
